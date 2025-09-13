@@ -39,3 +39,4 @@ while true; do
             ;;
     esac
 done
+#TODO : make improvements idk
