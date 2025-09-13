@@ -13,4 +13,8 @@ and for maybe other folks like me who don't like typing too many lines of code t
    chmod the script using "chmod +x surf-gui.sh"
    now finally,
    "./surf-gui.sh"
-for any issues, please report them in the issues tab and if you want to make an improvement do it in the pull requests tab.
+# issues
+for any issues, please report them in the issues tab 
+# pull requests
+if you want to make an improvement do it in the pull requests tab.
+thank you
